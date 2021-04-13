@@ -1,0 +1,4 @@
+E,T,F
+E
+a,+,*
+E-a,E,+,T;T-*,T,*,F;T-a;F-+,E;F-eps;
